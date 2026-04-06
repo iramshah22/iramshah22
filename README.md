@@ -24,8 +24,11 @@ Open to Data Analytics — let's connect!
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/iram-hassan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)]((https://iramshah22.github.io/SyedaIram2.github.io/))
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iram-hassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://iramshah22.github.io/SyedaIram2.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/iramshah22)
 
 
 📬 Open to opportunities in **Data Analytics Role**
