@@ -24,7 +24,6 @@ Open to Data Analytics — let's connect!
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/iram-hassan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://iramshah22.github.io/SyedaIram2.github.io/)
