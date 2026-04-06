@@ -4,7 +4,7 @@
 
 I work professionally as a Data Analyst like building dashboards in Tableau, writing SQL queries, and automating workflows with Python. Outside of work, I'm deep into Machine Learning & Deep Learning, building projects and uploading them here on GitHub.
 
-Open to Data Analytics — let's connect!
+Open to Data Analytics Roles — let's connect!
 
 ---
 
