@@ -1,6 +1,6 @@
 # Hi there, I'm Syeda Irram Hassan 👋
 
-**Data Analyst | Aspiring ML Engineer**
+**Associate Data Analyst**
 
 I work professionally as a Data Analyst like building dashboards in Tableau, writing SQL queries, and automating workflows with Python. Outside of work, I'm deep into Machine Learning & Deep Learning, building projects and uploading them here on GitHub.
 
@@ -11,15 +11,13 @@ Open to Data Analytics Roles — let's connect!
 ## 🛠️ Tech Stack
 
 **Data & Analytics**
-- Tableau · Power BI · SQL
+- Tableau · Power BI · MySQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 **Machine Learning & Deep Learning**
 - Scikit-learn · TensorFlow / Keras
 - Regression · Classification · Neural Networks
 
-**Tools & Workflow**
-- GitHub · VS Code · Jupyter Notebook
 
 
 ## 🌐 Connect With Me
