@@ -1,4 +1,4 @@
-# Hi there, I'm Syeda Irram Hassan 👋
+# Hi there, I'm Syeda Iram 👋
 
 **Associate Data Analyst**
 
