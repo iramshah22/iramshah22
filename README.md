@@ -1,10 +1,10 @@
 # Hi there, I'm Syeda Iram 👋
 
-**Associate Data Analyst**
+**Junior BI Developer**
 
-I work professionally as a Data Analyst like building dashboards in Tableau, writing SQL queries, and automating workflows with Python. Outside of work, I'm deep into Machine Learning & Deep Learning, building projects and uploading them here on GitHub.
+I work professionally as a BI developer like building dashboards in Tableau, writing SQL queries, and automating workflows with Python. Outside of work, I'm into Machine Learning & Deep Learning, building projects and uploading them here on GitHub.
 
-Open to Data Analytics Roles — let's connect!
+Open to Data Analytics/BI Developer Roles — let's connect!
 
 ---
 
