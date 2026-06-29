@@ -4,7 +4,7 @@
 
 I work professionally as a BI developer like building dashboards in Tableau, writing SQL queries, and automating workflows with Python. Outside of work, I'm into Machine Learning & Deep Learning, building projects and uploading them here on GitHub.
 
-Open to Data Analytics/BI Developer Roles — let's connect!
+Open to Data Analytics/BI Developer Roles, let's connect!
 
 ---
 
@@ -28,4 +28,4 @@ Open to Data Analytics/BI Developer Roles — let's connect!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/iramshah22)
 
 
-📬 Open to opportunities in **Data Analytics Role**
+📬 Open to opportunities in **BI Developer/Data Analytics Role**
